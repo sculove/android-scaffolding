@@ -1,0 +1,2 @@
+include ':app', ':support-v4-preferencefragment-1.0.0', ':menudrawer'
+include ':viewPagerIndicator'

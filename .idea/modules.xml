@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android-scaffolding.iml" filepath="$PROJECT_DIR$/android-scaffolding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menudrawer/menudrawer.iml" filepath="$PROJECT_DIR$/menudrawer/menudrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support-v4-preferencefragment-1.0.0/support-v4-preferencefragment-1.0.0.iml" filepath="$PROJECT_DIR$/support-v4-preferencefragment-1.0.0/support-v4-preferencefragment-1.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewPagerIndicator/viewPagerIndicator.iml" filepath="$PROJECT_DIR$/viewPagerIndicator/viewPagerIndicator.iml" />
+    </modules>
+  </component>
+</project>
+
