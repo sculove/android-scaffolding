@@ -16,3 +16,7 @@ select 'Project View' and then, refactor -> rename
 ### refactoring package
 select 'app -> src -> main -> java -> sculove.scaffolding' and then, refactor -> rename
 ![step2](/step2.png)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sculove/android-scaffolding/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
